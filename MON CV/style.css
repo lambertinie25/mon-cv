@@ -1,0 +1,50 @@
+
+.entete{
+font-size: 5em;
+font-weight: bold;
+text-align: center;
+border-style: double;
+border-radius: 1em;
+border-color:rgb(32, 88, 90);
+border-width: 15px;
+}
+.a5{
+    font-size: 2em;
+}
+.info{
+    font-size: 3em;
+    font-weight: bold;
+    background-color: cadetblue;
+    border-radius: 1em;
+
+}
+.a2{
+    font-size: 2em;
+}
+.a3{
+    font-weight: bolder;
+    margin: 1em;
+    margin: 7px;
+}
+
+.ab_photo{
+    float: right;
+    overflow: hidden;
+    border-radius: 100%;
+    width: 22em;
+    height: 21em;
+    border-style: double;
+    border-width: 1em;
+    border-color: darkcyan;
+}
+.ab{
+    margin:2em;
+}
+.esp_gra{
+    margin: 7px;
+}
+#ajus-fi{
+  margin: 8em;
+  border-style: groove;
+  border-radius: 1em;
+}
